@@ -1,0 +1,9 @@
+<html>
+  <p> Check Console <p>
+  <script?
+    function reverse(str) {
+    return str.split("").reverse().join(""); 
+    }
+    console.log(reverse(no lemon, no melon));
+  </script>
+</html>
